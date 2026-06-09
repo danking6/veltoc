@@ -5,6 +5,7 @@ Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an
 
 # Hardware Used
 
+- Xiao ESP32 C6
 - <a href="https://www.seeedstudio.com/ePaper-breakout-Board-for-XIAO-V2-p-6374.html">ePaper Driver Board for Seeed Studio XIAO</a>
 - <a href="https://www.seeedstudio.com/2-9-Monochrome-ePaper-Display-with-296x128-Pixels-p-5782.html">2.9" Monochrome eInk / ePaper Display</a>
 - <a href="https://www.amazon.com/dp/B08728K3YB">Rotary Encoder</a>
