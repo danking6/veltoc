@@ -42,3 +42,9 @@ Create a short USB-C cable (male to female) to connect the ESP32 USB-C port to t
 # Software Setup
 
 Arduino Studio was used. Please download the necessary libraries. If using wifi (needed for accurate time), add wifi credentials in voltoc-model-01.ino. Adjust other pins as needed in config.h
+
+# Usage
+
+Press the knob in to wake the device (if sleeping). Rotate the knob to switch between views. For all views except settings, the device will remain on the current view and wake periodically to update. 
+
+When on the settings view, press the knob in to enter settings. Rotate the knob to select a setting to edit, press the knob in to begin editing the selected setting. The device will automatically return to the temperature view after being idle for 30 seconds when in settings view.
