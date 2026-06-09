@@ -3,6 +3,11 @@ Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an
 
 <img width="4032" height="3265" alt="Veltoc-model-01 copy" src="https://github.com/user-attachments/assets/abb05084-31d4-4e59-87b8-da9ddf925d28" />
 
+<img width="33%" alt="IMG_6378" src="https://github.com/user-attachments/assets/d7c592ef-0d0c-45a1-96b4-f8b4b4a8f0d4" />
+<img width="33%" alt="IMG_6383" src="https://github.com/user-attachments/assets/cba218c0-c547-4c83-adef-750f159011c8" />
+<img width="33%" height="2796" alt="IMG_6384" src="https://github.com/user-attachments/assets/ee105933-9ef5-4597-84fd-3651f0d9456c" />
+
+
 # Hardware Used
 
 - Xiao ESP32 C6
@@ -48,3 +53,5 @@ Arduino Studio was used. Please download the necessary libraries. If using wifi 
 Press the knob in to wake the device (if sleeping). Rotate the knob to switch between views. For all views except settings, the device will remain on the current view and wake periodically to update. 
 
 When on the settings view, press the knob in to enter settings. Rotate the knob to select a setting to edit, press the knob in to begin editing the selected setting. The device will automatically return to the temperature view after being idle for 30 seconds when in settings view.
+
+
